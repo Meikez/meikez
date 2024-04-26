@@ -15,9 +15,9 @@ de IT.
 HERRAMIENTAS:
 
 
-Outsystems
-HTML - CSS
-Python
-BBD Relacionales
-Flutter - Supabase
+Outsystems,
+HTML - CSS,
+Python,
+BBD Relacionales,
+Flutter - Supabase,
 Java - Mysql

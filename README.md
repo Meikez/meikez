@@ -1,12 +1,23 @@
-![Matias Leal](https://github.com/Meikez/meikez/assets/77634804/8b59c61e-ef56-451d-ab7e-4695ade9bfb6)
+PERFIL:
 
-my_info = {
-    "Full Name": "Matias Ezequiel Leal",
-    "Location": "Argentina",
-    "Tools": ["Python","Flutter", "BDD", "Outsystems"]
-    "Education":{
-        0: "Analista de sistemas IFTS 19",
-        1: "Outsystems Associate Reactive Developer"
-    }
-}
+Soy Analista de Sistemas graduado y actualmente me encuentro trabajando en tecnologías Low 
+Code, donde he adquirido experiencia trabajando 
+en proyectos agiles. 
+Anteriormente, he trabajado como freelancer en 
+áreas como WordPress, diseño gráfico y organización de eventos, lo cual me ha brindado una 
+amplia perspectiva y habilidades diversas.
+Actualmente, mi enfoque está en profundizar mis 
+conocimientos en tecnologías como Python y 
+Flutter. Estoy dispuesto a aprender distintas áreas 
+y seguir creciendo profesionalmente en el área 
+de IT.
 
+HERRAMIENTAS:
+
+
+Outsystems
+HTML - CSS
+Python
+BBD Relacionales
+Flutter - Supabase
+Java - Mysql
